@@ -148,6 +148,10 @@ main {
   outline: none;
 }
 
+.hidden {
+  display: none;
+}
+
 .dice {
   position: absolute;
   left: 50%;
